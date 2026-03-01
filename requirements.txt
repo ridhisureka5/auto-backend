@@ -4,3 +4,4 @@ tensorflow==2.20.0
 numpy==1.26.4
 pandas
 scikit-learn
+torch==2.2.2
